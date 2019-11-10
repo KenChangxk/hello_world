@@ -1,2 +1,2 @@
 # hello_world
-Just a simple try
+Just a simple example
